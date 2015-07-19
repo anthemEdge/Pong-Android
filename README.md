@@ -1,16 +1,13 @@
 # Pong
 
-An Android remake of the classical Pong game with a simple AI opponent.
+An Android remake of the classical Pong game with a simple AI opponent. 
 
-------------------------------------------
-
-
-## Synopsis
-This Pong game is completed as a technical exercise, as part [Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/#/) by [John Purcell](https://www.caveofprogramming.com/). 
+This Pong game is completed as a technical exercise, as part of [Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/#/) by [John Purcell](https://www.caveofprogramming.com/). 
 
 
 ## Requirements and Installation
 This program requires Android 4.0 or higher.
+
 This program requires compiler with Android SDK API Level 14 or higher.
 
 ## Reference & Related Resource
